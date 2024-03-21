@@ -1,0 +1,16 @@
+img{
+    justify-content:center;
+    align-items:center;
+    display:block;
+    height:auto;
+    max-width:100%;
+    display:flex;
+
+  }
+  footer{
+    text-align:center;
+  }
+  figcaption{
+    text-align:left;
+  
+  }
